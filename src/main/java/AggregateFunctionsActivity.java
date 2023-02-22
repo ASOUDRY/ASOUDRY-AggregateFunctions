@@ -100,7 +100,7 @@ public class AggregateFunctionsActivity {
          */
         String sql = FileUtil.parseSQLFile("problem3.sql");
 
-        
+        //////////////////////////// bg
 
         double minimum = 0.0;
         try {
